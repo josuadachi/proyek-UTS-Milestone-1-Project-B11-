@@ -1,0 +1,31 @@
+{
+  "catatan": "kandidat terbaik sementara Milestone 1 (bukan model final proyek)",
+  "model_akhir": "Ensemble top-2",
+  "anggota": [
+    "One-Class SVM",
+    "LOF"
+  ],
+  "fitur": "ENG",
+  "skenario": "semi",
+  "param": {
+    "PCA reconstruction": "{'n_components': 0.99}",
+    "Isolation Forest": "{'max_samples': 1024, 'max_features': 0.5}",
+    "LOF": "{'n_neighbors': 35}",
+    "One-Class SVM": "{'nu': 0.01, 'gamma': 0.03}",
+    "Autoencoder (MLP)": "{'hidden': (16, 6, 16), 'alpha': 0.0001}"
+  },
+  "uji_mean": {
+    "roc_auc": 0.909,
+    "pr_auc": 0.486,
+    "precision": 0.442,
+    "recall": 0.488,
+    "f1": 0.462
+  },
+  "uji_std": {
+    "roc_auc": 0.016,
+    "pr_auc": 0.066,
+    "precision": 0.047,
+    "recall": 0.081,
+    "f1": 0.052
+  }
+}

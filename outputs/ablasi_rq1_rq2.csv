@@ -1,0 +1,7 @@
+model,ENG_minus_RAW_rata2,ENG_minus_RAW_std,ENG_minus_RAW_menang,semi_minus_unsup_rata2,semi_minus_unsup_std,semi_minus_unsup_menang
+Autoencoder (MLP),-0.026,0.042,3/10,0.026,0.047,8/10
+Isolation Forest,0.138,0.032,10/10,-0.014,0.012,1/10
+LOF,0.107,0.021,10/10,0.152,0.026,10/10
+Mahalanobis,0.055,0.02,10/10,0.011,0.009,8/10
+One-Class SVM,0.077,0.021,10/10,0.118,0.021,10/10
+PCA reconstruction,-0.032,0.008,0/10,0.003,0.004,7/10

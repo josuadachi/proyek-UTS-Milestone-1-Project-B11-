@@ -1,0 +1,10 @@
+fitur,penurunan_PR_AUC,std
+rpm,0.2625,0.0248
+wear_torque,0.1846,0.0052
+power_w,0.1785,0.0164
+torque,0.1258,0.0217
+temp_diff,0.0683,0.0172
+tool_wear,0.0434,0.008
+air_temp,0.0171,0.0107
+type_ord,0.0111,0.0044
+proc_temp,0.0049,0.0214

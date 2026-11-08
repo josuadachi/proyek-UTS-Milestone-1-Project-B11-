@@ -1,0 +1,11 @@
+fitur,ENG,ENG,RAW,RAW
+skenario,semi,unsup,semi,unsup
+model,,,,
+Acak (baseline),0.042,0.042,0.042,0.042
+Z-score maks (baseline),0.31,0.298,0.212,0.2
+Mahalanobis,0.334,0.327,0.282,0.268
+PCA reconstruction,0.252,0.25,0.285,0.281
+Isolation Forest,0.274,0.288,0.135,0.15
+LOF,0.464,0.295,0.34,0.206
+One-Class SVM,0.434,0.3,0.341,0.239
+Autoencoder (MLP),0.049,0.047,0.099,0.049

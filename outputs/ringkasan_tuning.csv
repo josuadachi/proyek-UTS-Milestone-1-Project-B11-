@@ -1,0 +1,6 @@
+model,param_terbaik,val_PR_bawaan,val_PR_tuned,uji_PR_bawaan,uji_PR_tuned
+PCA reconstruction,{'n_components': 0.99},0.236,0.302,0.252,0.334
+Isolation Forest,"{'max_samples': 1024, 'max_features': 0.5}",0.23,0.307,0.274,0.349
+LOF,{'n_neighbors': 35},0.454,0.454,0.464,0.464
+One-Class SVM,"{'nu': 0.01, 'gamma': 0.03}",0.422,0.464,0.434,0.466
+Autoencoder (MLP),"{'hidden': (16, 6, 16), 'alpha': 0.0001}",0.043,0.301,0.049,0.334
