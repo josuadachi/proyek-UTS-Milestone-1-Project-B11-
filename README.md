@@ -4,7 +4,7 @@
 |---|---|
 | **Project ID** | B11 |
 | **Nama kelompok** | Kelompok 12 |
-| **Anggota** | Josua Christian Dachi "231112624" · Andrew Samuel "231112435"| 
+| **Anggota** | Josua Christian Dachi "231112624" · Andrew Samuel "231112435" (TIDAK ADA KONTRIBUSI SAMA SEKALI) 
 
 ## Deskripsi masalah
 Kegagalan mesin pada proses pemesinan (pahat aus/patah, panas tidak terbuang, daya di luar batas, beban berlebih)
